@@ -23,3 +23,10 @@ This program will search for songs, albums and artists within their library base
 * Conduct unit tests for each component of the library
 * Perform integration tests to ensure all components work together seamlessly
 * Test the library with a variety of music queries to ensure accurate results
+
+# Answer Questions
+
+## How will you approach an open-ended programming project?
+
+
+## How do you think GitHub will factor into this project?
