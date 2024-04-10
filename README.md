@@ -27,6 +27,7 @@ This program will search for songs, albums and artists within their library base
 # Answer Questions
 
 ## How will you approach an open-ended programming project?
-
+I would approach my open ended project by figuring out and understanding the requirements that are needed to create my program like doing research on the algorithims used to create a program like this
 
 ## How do you think GitHub will factor into this project?
+GitHub gives a platform and manages open ended projects like this
