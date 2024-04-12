@@ -1,28 +1,29 @@
-# Music-Library-Search-Engine
-This program will search for songs, albums and artists within their library based on the user's input on what they are specifically searching for
+# Contact Book
+This program will display for a person's full name and email address by inputting the assigned user ID that is assigned to each person 
 
 # Goals and Time Line
 
 ## Week 1 Research and Planning
 
-* Research existing music search engines and libraries as examples
-* Define the scope and objectives of the library
+* Research existing contact book examples such as phone contacts or friends list on social media as reference
+
 
 ## Week 2 Design
 
-* Define the data model for storing music data
+* Design Contact and ContactBook classes like including attributes and methods
 * Design the search algorithm and ranking system
 
 ## Week 3-4 Development
 
-* Implement the design data model
-* Develop the search engine algorithm and integration with music data
+* Develop the search ID engine algorithm 
+* Implement file handling for data persistence
+
 
 ## Week 5 Testing
 
-* Conduct unit tests for each component of the library
-* Perform integration tests to ensure all components work together seamlessly
-* Test the library with a variety of music queries to ensure accurate results
+* Conduct unit tests for user ID verification
+* Perform integration tests to make sure everything works together seamlessly
+* Test the contact list input to ensure accurate results
 
 # Answer Questions
 
